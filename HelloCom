@@ -1,0 +1,5 @@
+public Class HelloCom  {
+      public void sayHello(){
+       System.out.println("Nobody Here?!");
+      }
+} 
